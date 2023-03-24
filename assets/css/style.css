@@ -1735,3 +1735,7 @@ lottie-player {
   width: 300px !important;
 }
 }
+lottie-player {
+  height: 660px !important;
+  width: 600px !important;
+}
